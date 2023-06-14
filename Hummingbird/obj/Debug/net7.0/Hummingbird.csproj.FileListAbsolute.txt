@@ -1,0 +1,15 @@
+D:\LearningCode\Hummingbird\bin\Debug\net7.0\Hummingbird.exe
+D:\LearningCode\Hummingbird\bin\Debug\net7.0\Hummingbird.deps.json
+D:\LearningCode\Hummingbird\bin\Debug\net7.0\Hummingbird.runtimeconfig.json
+D:\LearningCode\Hummingbird\bin\Debug\net7.0\Hummingbird.dll
+D:\LearningCode\Hummingbird\bin\Debug\net7.0\Hummingbird.pdb
+D:\LearningCode\Hummingbird\obj\Debug\net7.0\Hummingbird.csproj.AssemblyReference.cache
+D:\LearningCode\Hummingbird\obj\Debug\net7.0\Hummingbird.GeneratedMSBuildEditorConfig.editorconfig
+D:\LearningCode\Hummingbird\obj\Debug\net7.0\Hummingbird.AssemblyInfoInputs.cache
+D:\LearningCode\Hummingbird\obj\Debug\net7.0\Hummingbird.AssemblyInfo.cs
+D:\LearningCode\Hummingbird\obj\Debug\net7.0\Hummingbird.csproj.CoreCompileInputs.cache
+D:\LearningCode\Hummingbird\obj\Debug\net7.0\Hummingbird.dll
+D:\LearningCode\Hummingbird\obj\Debug\net7.0\refint\Hummingbird.dll
+D:\LearningCode\Hummingbird\obj\Debug\net7.0\Hummingbird.pdb
+D:\LearningCode\Hummingbird\obj\Debug\net7.0\Hummingbird.genruntimeconfig.cache
+D:\LearningCode\Hummingbird\obj\Debug\net7.0\ref\Hummingbird.dll
